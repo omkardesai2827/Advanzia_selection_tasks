@@ -12,7 +12,7 @@ validation review (R).
 ```
 Advanzia_selection_tasks/
 ├── README.md                       
-│
+│── requirements.txt
 ├── exercise1_portfolio_analysis/
 │   ├── README.md
 │   ├── 01_data_preparation.ipynb
